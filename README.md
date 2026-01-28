@@ -58,17 +58,17 @@ dnf install -y bind bind-utils python3 curl
 
 ### 📁 Pliki
 
-Skrypt:
+Zapisz i uruchom skrypt:
 ```bash
 /etc/named-update_rpz_hazard.py
 ```
 
-Strefa RPZ:
+Skrypt stworzy Strefe RPZ:
 ```bash
 /var/named/hazard.db
 ```
 
-Log:
+Log dzialania:
 ```bash
 /var/named/data/update_rpz_hazard.log
 ```
