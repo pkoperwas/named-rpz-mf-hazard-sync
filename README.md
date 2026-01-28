@@ -118,6 +118,3 @@ Powinno zwrócić:
 
 ---
 
-## ✍ Skrócony opis obowiązku
-
-Od 1 lipca dostawcy Internetu w Polsce mają obowiązek blokować dostęp do domen wpisanych do rejestru MF i przekierowywać je na stronę resortu. Rejestr obejmuje serwisy oferujące nielegalne gry hazardowe bez wymaganej koncesji lub zgłoszenia. ISP muszą wdrożyć blokadę w ciągu 48 godzin od publikacji domeny. Za brak realizacji obowiązku grożą kary do 250 000 zł.
